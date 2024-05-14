@@ -1,0 +1,26 @@
+.btn{
+    font-size: 20px;
+    margin: 20px;
+    float: right;
+}
+.card{
+    margin: auto;
+    margin-top: 20px;
+    width: 30%;
+}
+.inputText{
+    width: 100%;
+}
+.head{
+    padding: 10px
+}
+.table{
+    width: 30%;
+    border: 1px solid gray;
+    margin: auto;
+    margin-top: 10px;
+}
+.btn-sec{
+   float: right;
+   margin: 10px;
+}

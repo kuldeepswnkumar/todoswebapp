@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    width: 100%;
+    background-color: rgb(33, 57, 124);
+    height: 80px;
+}
+.nav h2{
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}
